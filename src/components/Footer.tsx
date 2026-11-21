@@ -196,14 +196,10 @@ export const Footer: React.FC<FooterProps> = ({
               </a>
 
               <div className="flex items-start gap-2 pt-0.5 leading-snug">
-                <span className="text-base select-none mt-0.5">📍</span>
-                <div className="text-xs text-[#4B5563] flex flex-col">
-                  <span className="font-semibold text-[#1A1A1A]">Icon Center</span>
-                  <span>24 Ave</span>
-                  <span>Cape Town City Centre</span>
-                  <span>Cape Town</span>
-                  <span>8000</span>
-                </div>
+                <span className="text-base select-none">📍</span>
+                <span className="text-xs sm:text-sm font-medium text-[#4B5563]">
+                  13 8th Ave, Maitland, Cape Town, 7405
+                </span>
               </div>
             </div>
           </div>

@@ -101,11 +101,11 @@ export const LegalPolicyPage: React.FC<LegalPolicyPageProps> = ({
       content: [
         {
           heading: '1. Purpose of the POPIA & PAIA Manual',
-          body: 'This manual outlines how Goshen International Bible College, powered by Faith in God Ministries (FIG) International (Icon Center, 24 Ave, Cape Town City Centre, Cape Town, 8000), complies with the Protection of Personal Information Act 4 of 2013 (POPIA) and the Promotion of Access to Information Act 2 of 2000 (PAIA).'
+          body: 'This manual outlines how Goshen International Bible College, powered by Faith in God Ministries (FIG) International (13 8th Ave, Maitland, Cape Town, 7405), complies with the Protection of Personal Information Act 4 of 2013 (POPIA) and the Promotion of Access to Information Act 2 of 2000 (PAIA).'
         },
         {
           heading: '2. Contact Details of the Information Officer',
-          body: 'Information Officer: Academic Registry & Legal Compliance Directorate | Email: enquiries@goshen.com | Phone: +27 20 200 1000 | Physical Address: Icon Center, 24 Ave, Cape Town City Centre, Cape Town, 8000, South Africa.'
+          body: 'Information Officer: Academic Registry & Legal Compliance Directorate | Email: enquiries@goshen.com | Phone: +27 20 200 1000 | Physical Address: 13 8th Ave, Maitland, Cape Town, 7405, South Africa.'
         },
         {
           heading: '3. Lawful Processing of Personal Information',
