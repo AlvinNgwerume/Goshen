@@ -1,0 +1,6 @@
+{
+  "name": "Goshen International Bible College",
+  "description": "Goshen International Bible College - Grounding kingdom leaders in biblical rigor, zero-overhead LMS technology, and Google Classroom integrated theological education.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
